@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "265472234260",
+    "project_id": "sih-app-d053f",
+    "storage_bucket": "sih-app-d053f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265472234260:android:51b21e50550e17a0bba801",
+        "android_client_info": {
+          "package_name": "com.example.crud_firebase_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw9Q0d4B5fEHMydE3QDhZeQbPouGWba2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265472234260:android:cc23a19aeed6090ebba801",
+        "android_client_info": {
+          "package_name": "com.example.sih1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw9Q0d4B5fEHMydE3QDhZeQbPouGWba2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
